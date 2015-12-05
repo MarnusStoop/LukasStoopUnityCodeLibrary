@@ -47,6 +47,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\General\Heap.cs" />
+     <Compile Include="Assets\Scripts\Managers\AudioManager.cs" />
+     <Compile Include="Assets\Scripts\UI\AudioMenuUI.cs" />
+     <Compile Include="Assets\Scripts\UI\GraphicsMenuUI.cs" />
+     <Compile Include="Assets\Scripts\UI\MainMenuUI.cs" />
+     <Compile Include="Assets\Scripts\UI\OptionsMenuUI.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
